@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+
+.description{
+    width: 1000px;
+    word-wrap: normal;
+    color: rgb(0, 0, 0);
+}
+
+.questions{
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+.form1{
+    color: magenta;
+}
+
+.form2{
+    background-color: maroon;
+    color: white;
+}
+
+.form3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form4{
+    font-family: cursive;
+    color:navy
+}
